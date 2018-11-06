@@ -1,0 +1,20 @@
+publishDir = "../docs"
+
+baseURL = "/"
+languageCode = "en-us"
+
+title = "Runmachine.io"
+theme = "kraiklyn"
+
+pygmentsCodeFences = true
+pygmentsStyle = "monokailight"
+
+# [params]
+# externalTitle = "Example"
+# sidebarColor = "default"
+# customCss = []
+
+[[menu.shortcuts]]
+name = "Runmachine.io on Github"
+url = "https://github.com/runmachine-io"
+weight = 10
