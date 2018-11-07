@@ -1,6 +1,6 @@
 publishDir = "../docs"
 
-baseURL = "/"
+baseURL = "https://runmachine.io/"
 languageCode = "en-us"
 
 title = "Runmachine.io"
